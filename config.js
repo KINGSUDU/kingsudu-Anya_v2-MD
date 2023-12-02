@@ -106,7 +106,7 @@ module.exports = {
   packname: process.env.PackName || "king sudu v2 MD",
   myweb: process.env.Web || "https://github.com/PikaBotz",
   footer: process.env.Footer || "© king sudu Bot",
-  prefa: process.env.Prefix || ['-'],
+  prefa: process.env.Prefix || ['.'],
   themeemoji: process.env.ThemeEmoji || "🎐",
   ownername: process.env.Owner_Name || "Pika~Kun",
   ownernumber: process.env.Owner_Number || "916900904828",
