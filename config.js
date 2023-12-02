@@ -15,12 +15,12 @@ global.myweb = process.env.Web || "https://github.com/PikaBotz"
 global.footer = process.env.Footer || "© King Sudu Bot" 
 global.prefa = process.env.Prefix || ['.'] 
 global.themeemoji = process.env.ThemeEmoji || "🎐" 
-global.ownername = process.env.Owner_Name || "Pika~Kun" 
+global.ownername = process.env.Owner_Name || "𝑆𝑈𝐷𝛯𝛯𝛲𝑇𝛨𝛥" 
 global.ownernumber = process.env.Owner_Number || "94785214202" 
 global.adress = process.env.Continent || "Asia, Sri Lanka, Galle" 
 global.timezone = process.env.TimeZone || "Asia/Colombo" 
 global.instagramId = process.env.Insta || "8.08_only_mine" 
-global.email = process.env.Email_Id || "example@example.com" 
+global.email = process.env.Email_Id || "kingsudubot@gmail.com" 
 
 global.mongoUrl = process.env.MongoDB || "mongodb+srv://KingSUDU:sudubot2008@cluster0.q262gsk.mongodb.net/"; 
 
@@ -108,8 +108,8 @@ module.exports = {
   footer: process.env.Footer || "© king sudu Bot",
   prefa: process.env.Prefix || ['.'],
   themeemoji: process.env.ThemeEmoji || "🎐",
-  ownername: process.env.Owner_Name || "Pika~Kun",
-  ownernumber: process.env.Owner_Number || "916900904828",
+  ownername: process.env.Owner_Name || "𝑆𝑈𝐷𝛯𝛯𝛲𝑇𝛨𝛥",
+  ownernumber: process.env.Owner_Number || "94785214202",
   adress: process.env.Continent || "Asia, Sri Lanka, Galle",
   timezone: process.env.TimeZone || "Asia/Colombo", 
   instagramId: process.env.Insta || "8.08_only_mine",
@@ -120,7 +120,7 @@ module.exports = {
   left: process.env.Left_Msg || 'Ex-member *@$user* is no longer available in this group chat.\n\n_$prefix goodbye off to disable this message._',
   promote: process.env.Promote_Msg || '*@$user* has been promoted as an admin in this group.\n\n_$prefix promotem off to disable this message._',
   demote: process.env.Demote_Msg || '*@$user* has been demoted to a member in this group.\n\n_$prefix demotem off to disable this message._',
-  sessionId: process.env.SESSION_ID || "SESSION ID OF ME", 
+  sessionId: process.env.SESSION_ID || "session sedssion sessipon ssfdgfbgnhhnhmnhnsgfnhfffffffffffffffffffffffdddddsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasssssssssssssssssssssssssssseeeeeeeeeessssssssssssssssssssiiiiiiiiiiiiiiiiiiiiiiioooooooooooooooooooooooooooookmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm", 
   auto_read_status : process.env.AUTO_READ_STATUS || "true",
   alwaysonline: process.env.ALWAYS_ONLINE || "true", 
   readmessage: process.env.READ_MESSAGE || "true", 
